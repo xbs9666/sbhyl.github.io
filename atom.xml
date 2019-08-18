@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-08T17:23:13.906Z</updated>
+  <updated>2019-08-18T05:52:43.804Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>色环插件安装失败解决办法</title>
+    <link href="http://yoursite.com/2019/08/18/%E8%89%B2%E7%8E%AF%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/"/>
+    <id>http://yoursite.com/2019/08/18/色环插件安装失败解决办法/</id>
+    <published>2019-08-18T05:13:34.000Z</published>
+    <updated>2019-08-18T05:52:43.804Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="以Photoshop-cc2017-For-Mac为例"><a href="#以Photoshop-cc2017-For-Mac为例" class="headerlink" title="以Photoshop cc2017 For Mac为例"></a>以Photoshop cc2017 For Mac为例</h2><p>首先下载插件，链接: <a href="https://pan.baidu.com/s/1c4SsIBzhJz3j7JWUdH6DbA" target="_blank" rel="noopener">https://pan.baidu.com/s/1c4SsIBzhJz3j7JWUdH6DbA</a> 提取码: hf36</p><p>1.将下载好的“coolorus_2.59.469”文件夹复制到: Finder/应用程序/Adobe Photoshop CC 2017/Plus-ins/</p><p>2.在/Library/Application Support/Adobe/CEP/extensions/ 新建一个文件夹全名为：com.moongorilla.coolorus2，没有“CEP”和“extensions”文件夹可自行创建。</p><p>3.从Launchpad中找到“终端”打开，将 defaults write com.adobe.CSXS.7 PlayerDebugMode 1 复制进去并回车。</p><p>4.打开PS软件，将 install Coolorus 2.5.jsx 文件直接拖动到PS窗口里，关闭PS。</p><p>5.安装不成功会显示“Something went wrong”，安装成功跳过下一步。</p><p>6.将“coolorus_2.59.469”文件夹中“HTML”中的所有文件复制到第二步中新建的“com.moongorilla.coolorus2”文件夹中，然后重复上一步。</p><p>7.插件安装成功后是没有破解的，此时应打开“coolorus_2.59.469”文件夹，拷贝“ key ”文件夹下面的“ main.js ”，打开 /Library/Application Support/Adobe/CEP/extensions/com.moongorilla.coolorus2/js/ 粘贴，替换即可。</p><p>8.启动PS，菜单栏窗口-扩展功能-Coolorus 2.5</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;以Photoshop-cc2017-For-Mac为例&quot;&gt;&lt;a href=&quot;#以Photoshop-cc2017-For-Mac为例&quot; class=&quot;headerlink&quot; title=&quot;以Photoshop cc2017 For Mac为例&quot;&gt;&lt;/a&gt;以Phot
+      
+    
+    </summary>
+    
+      <category term="问题" scheme="http://yoursite.com/categories/%E9%97%AE%E9%A2%98/"/>
+    
+    
+      <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
+    
+  </entry>
   
   <entry>
     <title>焦虑</title>
