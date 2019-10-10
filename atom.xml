@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-18T05:52:43.804Z</updated>
+  <updated>2019-10-10T15:35:40.502Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>瞎写（一）</title>
+    <link href="http://yoursite.com/2019/10/10/%E7%9E%8E%E5%86%99(%E4%B8%80)/"/>
+    <id>http://yoursite.com/2019/10/10/瞎写(一)/</id>
+    <published>2019-10-10T15:11:32.000Z</published>
+    <updated>2019-10-10T15:35:40.502Z</updated>
+    
+    <content type="html"><![CDATA[<p>#拖延</p><p>一晃一年过去了，好像还是那副德行没有什么改变。去年年底买的书，到现在还没看完，也不知道年末是否有信心读完。从小到大好像一直如此，能拖的事情绝不立刻动手。拖延的习惯一旦养成，真的好难去更改变。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#拖延&lt;/p&gt;
+&lt;p&gt;一晃一年过去了，好像还是那副德行没有什么改变。去年年底买的书，到现在还没看完，也不知道年末是否有信心读完。从小到大好像一直如此，能拖的事情绝不立刻动手。拖延的习惯一旦养成，真的好难去更改变。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="记录生活" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>色环插件安装失败解决办法</title>

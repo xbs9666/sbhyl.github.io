@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[瞎写（一）]]></title>
+    <url>%2F2019%2F10%2F10%2F%E7%9E%8E%E5%86%99(%E4%B8%80)%2F</url>
+    <content type="text"><![CDATA[#拖延 一晃一年过去了，好像还是那副德行没有什么改变。去年年底买的书，到现在还没看完，也不知道年末是否有信心读完。从小到大好像一直如此，能拖的事情绝不立刻动手。拖延的习惯一旦养成，真的好难去更改变。]]></content>
+      <tags>
+        <tag>记录生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[色环插件安装失败解决办法]]></title>
     <url>%2F2019%2F08%2F18%2F%E8%89%B2%E7%8E%AF%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95%2F</url>
     <content type="text"><![CDATA[以Photoshop cc2017 For Mac为例首先下载插件，链接: https://pan.baidu.com/s/1c4SsIBzhJz3j7JWUdH6DbA 提取码: hf36 1.将下载好的“coolorus_2.59.469”文件夹复制到: Finder/应用程序/Adobe Photoshop CC 2017/Plus-ins/ 2.在/Library/Application Support/Adobe/CEP/extensions/ 新建一个文件夹全名为：com.moongorilla.coolorus2，没有“CEP”和“extensions”文件夹可自行创建。 3.从Launchpad中找到“终端”打开，将 defaults write com.adobe.CSXS.7 PlayerDebugMode 1 复制进去并回车。 4.打开PS软件，将 install Coolorus 2.5.jsx 文件直接拖动到PS窗口里，关闭PS。 5.安装不成功会显示“Something went wrong”，安装成功跳过下一步。 6.将“coolorus_2.59.469”文件夹中“HTML”中的所有文件复制到第二步中新建的“com.moongorilla.coolorus2”文件夹中，然后重复上一步。 7.插件安装成功后是没有破解的，此时应打开“coolorus_2.59.469”文件夹，拷贝“ key ”文件夹下面的“ main.js ”，打开 /Library/Application Support/Adobe/CEP/extensions/com.moongorilla.coolorus2/js/ 粘贴，替换即可。 8.启动PS，菜单栏窗口-扩展功能-Coolorus 2.5]]></content>
