@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-10T15:45:01.884Z</updated>
+  <updated>2019-08-18T05:52:43.804Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>瞎写（一）</title>
-    <link href="http://yoursite.com/2019/10/10/%E7%9E%8E%E5%86%99(%E4%B8%80)/"/>
-    <id>http://yoursite.com/2019/10/10/瞎写(一)/</id>
-    <published>2019-10-10T15:11:32.000Z</published>
-    <updated>2019-10-10T15:45:01.884Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="拖延"><a href="#拖延" class="headerlink" title="拖延"></a>拖延</h1><p>一晃一年过去了，好像还是那副德行没有什么改变。去年年底买的书，到现在还没看完，也不知道年末是否有信心读完。从小到大好像一直如此，能拖的事情绝不立刻动手。拖延的习惯一旦养成，真的好难去改变。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;拖延&quot;&gt;&lt;a href=&quot;#拖延&quot; class=&quot;headerlink&quot; title=&quot;拖延&quot;&gt;&lt;/a&gt;拖延&lt;/h1&gt;&lt;p&gt;一晃一年过去了，好像还是那副德行没有什么改变。去年年底买的书，到现在还没看完，也不知道年末是否有信心读完。从小到大好像一直如此，能拖的事情绝
-      
-    
-    </summary>
-    
-    
-      <category term="记录生活" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
   
   <entry>
     <title>色环插件安装失败解决办法</title>
@@ -61,34 +38,6 @@
     
     
       <category term="Photoshop" scheme="http://yoursite.com/tags/Photoshop/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>焦虑</title>
-    <link href="http://yoursite.com/2019/08/09/%E7%84%A6%E8%99%91/"/>
-    <id>http://yoursite.com/2019/08/09/焦虑/</id>
-    <published>2019-08-08T16:24:29.000Z</published>
-    <updated>2019-10-10T15:39:14.585Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>曾经说过不会抽的烟<br>都已经吸进肺里好几年<br>曾经的梦想天真无邪<br>后来满脑子都是为了钱</p></blockquote><h1 id="现状"><a href="#现状" class="headerlink" title="现状"></a>现状</h1><p>六月刚毕业时我还像个无忧无虑的孩子，总以为自己有地方实习就可以不用担心工作的事情了，做着目前没有很大难度的工作，每天处于半工作半划水状态。</p><p>进入七月，新项目分配下来后我整个人都不好了。分到手的镜头layout阶段没有好好做,导致<br>在Animation阶段毫无头绪，动画表演太差，最基本的动画节奏没有（layout阶段都应该做出来），跟随重叠不会加，甚至最基本的动画运动规律都是错的。九个镜头磨了一个月，通过两个简单的，剩下的一个也没做出来，最后还是让小伙伴帮忙做的，镜头质量堪忧。</p><p>七月中旬到现在一直在质疑自己到底适合做动画吗？问过自己到底喜欢这一行吗？想过要不要去转行做前端，转行做前端遇到困难我会坚持的下来吗？想到这一切头都大了，遇到了有史以来最大的难题！焦虑到失眠，焦虑到去抽曾不抽的烟。可是焦虑也没有办法，解决不了任何问题。</p><p>想了想动画做不好，要怪就怪自己基础太差，基础差是有原因的——没有好好学习，也没有一套好的学习方法。说句实在话，大学四年的颓废生活让我丧失了学习的能力。从现在起得慢慢找回学习的感觉，找到一套适合自己的学习方法，希望自己能有所改变。</p><p>为了家人，为了自己，加油。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;曾经说过不会抽的烟&lt;br&gt;都已经吸进肺里好几年&lt;br&gt;曾经的梦想天真无邪&lt;br&gt;后来满脑子都是为了钱&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&quot;现状&quot;&gt;&lt;a href=&quot;#现状&quot; class=&quot;headerlink&quot; title=&quot;现状&quot;
-      
-    
-    </summary>
-    
-      <category term="瞎写" scheme="http://yoursite.com/categories/%E7%9E%8E%E5%86%99/"/>
-    
-    
-      <category term="记录生活" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
